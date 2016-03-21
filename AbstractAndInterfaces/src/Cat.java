@@ -2,6 +2,7 @@
  * Created by maratmamin on 3/21/16.
  */
 public class Cat implements Pet {
+
     @Override
     public void petFed() {
         System.out.println("Cat was fed");
